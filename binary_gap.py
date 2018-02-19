@@ -1,4 +1,4 @@
-#binary gap exs
+#binary gap ex
 
 def solution(N):
     b_num = bin(N)[2:]
